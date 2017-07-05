@@ -1,0 +1,20 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file
+local.properties
+
+# intellij project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+bin/
